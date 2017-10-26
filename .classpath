@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/ApacheConfiguration"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/JDom"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Log4j"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/MigLayout"/>
+	<classpathentry kind="lib" path="D:/libs/javax.comm-3.01/jar/comm.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
